@@ -1,9 +1,9 @@
 fastapi
-uvicorn
+uvicorn[standard]
 sqlalchemy
 pydantic
-
 pydantic-settings
 alembic
 python-dotenv
 email-validator
+psycopg2-binary
